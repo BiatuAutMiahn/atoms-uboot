@@ -1,0 +1,711 @@
+Archive member included to satisfy reference by file (symbol)
+
+/nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+                              lib/libgeneric.o (__lshrdi3)
+/nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+                              lib/libgeneric.o (__ashldi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+___strtok           0x4               lib/libgeneric.o
+spl_image           0x18              common/spl/libspl.o
+pll_cfg             0x20              arch/mips/cpu/xburst/t31/libt31.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/start.o
+ .data          0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/start.o
+ .bss           0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/start.o
+ .reginfo       0x0000000000000000       0x18 arch/mips/cpu/xburst/t31/start.o
+ .reginfo       0x0000000000000000       0x18 arch/mips/cpu/xburst/libxburst.o
+ .text          0x0000000000000000        0x0 arch/mips/cpu/xburst/libxburst.o
+ .text._machine_restart
+                0x0000000000000000       0x60 arch/mips/cpu/xburst/libxburst.o
+ .text.do_reset
+                0x0000000000000000       0x30 arch/mips/cpu/xburst/libxburst.o
+ .text.flush_cache
+                0x0000000000000000       0x38 arch/mips/cpu/xburst/libxburst.o
+ .text.flush_dcache_range
+                0x0000000000000000       0x38 arch/mips/cpu/xburst/libxburst.o
+ .text.invalidate_dcache_range
+                0x0000000000000000       0x30 arch/mips/cpu/xburst/libxburst.o
+ .text.jz_serial_initialize
+                0x0000000000000000       0x20 arch/mips/cpu/xburst/libxburst.o
+ .text.get_timer
+                0x0000000000000000       0x6c arch/mips/cpu/xburst/libxburst.o
+ .text.get_ticks
+                0x0000000000000000       0x14 arch/mips/cpu/xburst/libxburst.o
+ .text.get_tbclk
+                0x0000000000000000        0x8 arch/mips/cpu/xburst/libxburst.o
+ .rodata.str1.4
+                0x0000000000000000       0x28 arch/mips/cpu/xburst/libxburst.o
+ .bss           0x0000000000000000        0x0 arch/mips/cpu/xburst/libxburst.o
+ .pdr           0x0000000000000000      0x2a0 arch/mips/cpu/xburst/libxburst.o
+ .gnu.attributes
+                0x0000000000000000       0x10 arch/mips/cpu/xburst/libxburst.o
+ .reginfo       0x0000000000000000       0x18 arch/mips/cpu/xburst/t31/libt31.o
+ .text          0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/libt31.o
+ .text.enable_interrupts
+                0x0000000000000000        0x8 arch/mips/cpu/xburst/t31/libt31.o
+ .text.disable_interrupts
+                0x0000000000000000        0x8 arch/mips/cpu/xburst/t31/libt31.o
+ .text.do_go_exec
+                0x0000000000000000       0x58 arch/mips/cpu/xburst/t31/libt31.o
+ .text.otg_phy_init
+                0x0000000000000000        0x8 arch/mips/cpu/xburst/t31/libt31.o
+ .text.phy_dqs_delay
+                0x0000000000000000       0x48 arch/mips/cpu/xburst/t31/libt31.o
+ .text.initdram
+                0x0000000000000000        0x8 arch/mips/cpu/xburst/t31/libt31.o
+ .text.ddr_test_read
+                0x0000000000000000       0xd4 arch/mips/cpu/xburst/t31/libt31.o
+ .text.write_dcu_cache.constprop.0
+                0x0000000000000000       0x2c arch/mips/cpu/xburst/t31/libt31.o
+ .text.send_MR0
+                0x0000000000000000       0xec arch/mips/cpu/xburst/t31/libt31.o
+ .text.dqs_gate_train
+                0x0000000000000000      0x4a4 arch/mips/cpu/xburst/t31/libt31.o
+ .bss           0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/libt31.o
+ .bss.ddr_params_p
+                0x0000000000000000        0x4 arch/mips/cpu/xburst/t31/libt31.o
+ .pdr           0x0000000000000000      0x3a0 arch/mips/cpu/xburst/t31/libt31.o
+ .gnu.attributes
+                0x0000000000000000       0x10 arch/mips/cpu/xburst/t31/libt31.o
+ .reginfo       0x0000000000000000       0x18 arch/mips/lib/libmips.o
+ .text          0x0000000000000000        0x0 arch/mips/lib/libmips.o
+ .text.board_init_f
+                0x0000000000000000       0x38 arch/mips/lib/libmips.o
+ .data          0x0000000000000000       0x80 arch/mips/lib/libmips.o
+ .bss           0x0000000000000000        0x0 arch/mips/lib/libmips.o
+ .comment       0x0000000000000000       0x25 arch/mips/lib/libmips.o
+ .pdr           0x0000000000000000       0x20 arch/mips/lib/libmips.o
+ .debug_aranges
+                0x0000000000000000       0x20 arch/mips/lib/libmips.o
+ .debug_info    0x0000000000000000      0x5c8 arch/mips/lib/libmips.o
+ .debug_abbrev  0x0000000000000000      0x192 arch/mips/lib/libmips.o
+ .debug_line    0x0000000000000000      0x167 arch/mips/lib/libmips.o
+ .debug_frame   0x0000000000000000       0x28 arch/mips/lib/libmips.o
+ .debug_str     0x0000000000000000      0x39c arch/mips/lib/libmips.o
+ .debug_loc     0x0000000000000000       0x41 arch/mips/lib/libmips.o
+ .debug_ranges  0x0000000000000000       0x10 arch/mips/lib/libmips.o
+ .gnu.attributes
+                0x0000000000000000       0x10 arch/mips/lib/libmips.o
+ .mdebug.abi32  0x0000000000000000        0x0 arch/mips/lib/libmips.o
+ .reginfo       0x0000000000000000       0x18 board/ingenic/isvp_t31/libisvp_t31.o
+ .text          0x0000000000000000        0x0 board/ingenic/isvp_t31/libisvp_t31.o
+ .text.board_early_init_f
+                0x0000000000000000        0x8 board/ingenic/isvp_t31/libisvp_t31.o
+ .text.misc_init_r
+                0x0000000000000000      0x32c board/ingenic/isvp_t31/libisvp_t31.o
+ .text.board_mmc_init
+                0x0000000000000000       0x20 board/ingenic/isvp_t31/libisvp_t31.o
+ .text.board_eth_init
+                0x0000000000000000       0x1c board/ingenic/isvp_t31/libisvp_t31.o
+ .text.checkboard
+                0x0000000000000000       0x24 board/ingenic/isvp_t31/libisvp_t31.o
+ .rodata.str1.4
+                0x0000000000000000      0x534 board/ingenic/isvp_t31/libisvp_t31.o
+ .data          0x0000000000000000        0x0 board/ingenic/isvp_t31/libisvp_t31.o
+ .bss           0x0000000000000000        0x0 board/ingenic/isvp_t31/libisvp_t31.o
+ .pdr           0x0000000000000000       0xc0 board/ingenic/isvp_t31/libisvp_t31.o
+ .gnu.attributes
+                0x0000000000000000       0x10 board/ingenic/isvp_t31/libisvp_t31.o
+ .reginfo       0x0000000000000000       0x18 common/spl/libspl.o
+ .text          0x0000000000000000        0x0 common/spl/libspl.o
+ .text.spl_board_prepare_for_linux
+                0x0000000000000000        0x8 common/spl/libspl.o
+ .text.jump_to_image_no_args
+                0x0000000000000000       0x28 common/spl/libspl.o
+ .text.spl_regulator_set
+                0x0000000000000000        0x8 common/spl/libspl.o
+ .bss           0x0000000000000000        0x0 common/spl/libspl.o
+ .bss.boot_params_ptr
+                0x0000000000000000        0x4 common/spl/libspl.o
+ .pdr           0x0000000000000000      0x1c0 common/spl/libspl.o
+ .gnu.attributes
+                0x0000000000000000       0x10 common/spl/libspl.o
+ .reginfo       0x0000000000000000       0x18 drivers/gpio/libgpio.o
+ .text          0x0000000000000000        0x0 drivers/gpio/libgpio.o
+ .text.gpio_request
+                0x0000000000000000       0x40 drivers/gpio/libgpio.o
+ .text.gpio_free
+                0x0000000000000000        0x8 drivers/gpio/libgpio.o
+ .text.gpio_port_set_value
+                0x0000000000000000       0x30 drivers/gpio/libgpio.o
+ .text.gpio_port_direction_input
+                0x0000000000000000       0x3c drivers/gpio/libgpio.o
+ .text.gpio_port_direction_output
+                0x0000000000000000       0x3c drivers/gpio/libgpio.o
+ .text.gpio_set_value
+                0x0000000000000000       0x3c drivers/gpio/libgpio.o
+ .text.gpio_get_value
+                0x0000000000000000       0x38 drivers/gpio/libgpio.o
+ .text.gpio_get_flag
+                0x0000000000000000       0x28 drivers/gpio/libgpio.o
+ .text.gpio_clear_flag
+                0x0000000000000000       0x28 drivers/gpio/libgpio.o
+ .text.gpio_direction_input
+                0x0000000000000000       0x38 drivers/gpio/libgpio.o
+ .text.gpio_direction_output
+                0x0000000000000000       0x3c drivers/gpio/libgpio.o
+ .text.gpio_enable_pull_up
+                0x0000000000000000       0x34 drivers/gpio/libgpio.o
+ .text.gpio_disable_pull_up
+                0x0000000000000000       0x34 drivers/gpio/libgpio.o
+ .text.gpio_enable_pull_down
+                0x0000000000000000       0x34 drivers/gpio/libgpio.o
+ .text.gpio_disable_pull_down
+                0x0000000000000000       0x34 drivers/gpio/libgpio.o
+ .text.gpio_set_pull_dir
+                0x0000000000000000       0x50 drivers/gpio/libgpio.o
+ .text.gpio_as_irq_high_level
+                0x0000000000000000       0x4c drivers/gpio/libgpio.o
+ .text.gpio_as_irq_low_level
+                0x0000000000000000       0x4c drivers/gpio/libgpio.o
+ .text.gpio_as_irq_rise_edge
+                0x0000000000000000       0x4c drivers/gpio/libgpio.o
+ .text.gpio_as_irq_fall_edge
+                0x0000000000000000       0x4c drivers/gpio/libgpio.o
+ .text.gpio_ack_irq
+                0x0000000000000000       0x28 drivers/gpio/libgpio.o
+ .text.dump_gpio_func
+                0x0000000000000000       0x84 drivers/gpio/libgpio.o
+ .rodata.str1.4
+                0x0000000000000000       0x30 drivers/gpio/libgpio.o
+ .rodata.__func__.3588
+                0x0000000000000000       0x10 drivers/gpio/libgpio.o
+ .data          0x0000000000000000        0x0 drivers/gpio/libgpio.o
+ .bss           0x0000000000000000        0x0 drivers/gpio/libgpio.o
+ .pdr           0x0000000000000000      0x320 drivers/gpio/libgpio.o
+ .gnu.attributes
+                0x0000000000000000       0x10 drivers/gpio/libgpio.o
+ .reginfo       0x0000000000000000       0x18 drivers/serial/libserial.o
+ .text          0x0000000000000000        0x0 drivers/serial/libserial.o
+ .text.serial_null
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .text.serial_register
+                0x0000000000000000       0x14 drivers/serial/libserial.o
+ .text.serial_stdio_init
+                0x0000000000000000       0x94 drivers/serial/libserial.o
+ .text.serial_assign
+                0x0000000000000000       0x64 drivers/serial/libserial.o
+ .text.serial_initialize
+                0x0000000000000000      0x198 drivers/serial/libserial.o
+ .text.serial_reinit_all
+                0x0000000000000000       0x3c drivers/serial/libserial.o
+ .text.serial_getc
+                0x0000000000000000       0x20 drivers/serial/libserial.o
+ .data          0x0000000000000000        0x0 drivers/serial/libserial.o
+ .bss           0x0000000000000000        0x0 drivers/serial/libserial.o
+ .bss.serial_devices
+                0x0000000000000000        0x4 drivers/serial/libserial.o
+ .pdr           0x0000000000000000      0x1c0 drivers/serial/libserial.o
+ .gnu.attributes
+                0x0000000000000000       0x10 drivers/serial/libserial.o
+ .reginfo       0x0000000000000000       0x18 lib/libgeneric.o
+ .text          0x0000000000000000        0x0 lib/libgeneric.o
+ .text.crc32_no_comp
+                0x0000000000000000      0x13c lib/libgeneric.o
+ .text.crc32    0x0000000000000000       0x20 lib/libgeneric.o
+ .text.crc32_wd
+                0x0000000000000000        0x8 lib/libgeneric.o
+ .text.crc32_wd_buf
+                0x0000000000000000       0x70 lib/libgeneric.o
+ .text.display_options
+                0x0000000000000000       0x2c lib/libgeneric.o
+ .text.print_size
+                0x0000000000000000      0x1a4 lib/libgeneric.o
+ .text.print_buffer
+                0x0000000000000000      0x248 lib/libgeneric.o
+ .text.__div64_32
+                0x0000000000000000      0x118 lib/libgeneric.o
+ .text._hdelete.isra.1
+                0x0000000000000000       0x74 lib/libgeneric.o
+ .text.drop_var_from_set.part.2
+                0x0000000000000000       0x8c lib/libgeneric.o
+ .text.hcreate_r
+                0x0000000000000000       0xbc lib/libgeneric.o
+ .text.hdestroy_r
+                0x0000000000000000       0x98 lib/libgeneric.o
+ .text.hmatch_r
+                0x0000000000000000       0xd8 lib/libgeneric.o
+ .text.hsearch_r
+                0x0000000000000000      0x470 lib/libgeneric.o
+ .text.hdelete_r
+                0x0000000000000000       0xf4 lib/libgeneric.o
+ .text.himport_r
+                0x0000000000000000      0x3c4 lib/libgeneric.o
+ .text.hwalk_r  0x0000000000000000       0x90 lib/libgeneric.o
+ .text.skip_spaces
+                0x0000000000000000       0x34 lib/libgeneric.o
+ .text.strim    0x0000000000000000       0x88 lib/libgeneric.o
+ .text.strncasecmp
+                0x0000000000000000       0x98 lib/libgeneric.o
+ .text.strcasecmp
+                0x0000000000000000        0x8 lib/libgeneric.o
+ .text.strcpy   0x0000000000000000       0x24 lib/libgeneric.o
+ .text.strncpy  0x0000000000000000       0x2c lib/libgeneric.o
+ .text.strcat   0x0000000000000000       0x2c lib/libgeneric.o
+ .text.strncat  0x0000000000000000       0x50 lib/libgeneric.o
+ .text.strcmp   0x0000000000000000       0x2c lib/libgeneric.o
+ .text.strncmp  0x0000000000000000       0x44 lib/libgeneric.o
+ .text.strchr   0x0000000000000000       0x38 lib/libgeneric.o
+ .text.strlen   0x0000000000000000       0x20 lib/libgeneric.o
+ .text.strrchr  0x0000000000000000       0x58 lib/libgeneric.o
+ .text.strnlen  0x0000000000000000       0x30 lib/libgeneric.o
+ .text.strdup   0x0000000000000000       0x58 lib/libgeneric.o
+ .text.strspn   0x0000000000000000       0x40 lib/libgeneric.o
+ .text.strpbrk  0x0000000000000000       0x38 lib/libgeneric.o
+ .text.strtok   0x0000000000000000       0x9c lib/libgeneric.o
+ .text.strsep   0x0000000000000000       0x50 lib/libgeneric.o
+ .text.strswab  0x0000000000000000       0x54 lib/libgeneric.o
+ .text.bcopy    0x0000000000000000       0x2c lib/libgeneric.o
+ .text.memcpy   0x0000000000000000       0x7c lib/libgeneric.o
+ .text.memmove  0x0000000000000000       0x78 lib/libgeneric.o
+ .text.memcmp   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.memscan  0x0000000000000000       0x2c lib/libgeneric.o
+ .text.strstr   0x0000000000000000       0x9c lib/libgeneric.o
+ .text.memchr   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.memchr_inv
+                0x0000000000000000      0x11c lib/libgeneric.o
+ .text.put_dec  0x0000000000000000      0x258 lib/libgeneric.o
+ .text.number.isra.1
+                0x0000000000000000      0x328 lib/libgeneric.o
+ .text.vsnprintf_internal.isra.3
+                0x0000000000000000      0x61c lib/libgeneric.o
+ .text.simple_strtoul
+                0x0000000000000000       0xf0 lib/libgeneric.o
+ .text.strict_strtoul
+                0x0000000000000000       0x9c lib/libgeneric.o
+ .text.simple_strtol
+                0x0000000000000000       0x3c lib/libgeneric.o
+ .text.ustrtoul
+                0x0000000000000000       0xa0 lib/libgeneric.o
+ .text.simple_strtoull
+                0x0000000000000000      0x120 lib/libgeneric.o
+ .text.ustrtoull
+                0x0000000000000000       0xc4 lib/libgeneric.o
+ .text.vsprintf
+                0x0000000000000000        0x8 lib/libgeneric.o
+ .text.sprintf  0x0000000000000000       0x28 lib/libgeneric.o
+ .text.panic    0x0000000000000000       0x54 lib/libgeneric.o
+ .text.__assert_fail
+                0x0000000000000000       0x18 lib/libgeneric.o
+ .text.simple_itoa
+                0x0000000000000000       0x50 lib/libgeneric.o
+ .text.print_grouped_ull
+                0x0000000000000000       0xc4 lib/libgeneric.o
+ .rodata.crc_table
+                0x0000000000000000      0x400 lib/libgeneric.o
+ .rodata._ctype
+                0x0000000000000000      0x100 lib/libgeneric.o
+ .rodata.str1.4
+                0x0000000000000000      0x124 lib/libgeneric.o
+ .rodata.names.3531
+                0x0000000000000000        0x8 lib/libgeneric.o
+ .rodata.digits.3424
+                0x0000000000000000       0x10 lib/libgeneric.o
+ .data          0x0000000000000000        0x0 lib/libgeneric.o
+ .bss           0x0000000000000000        0x0 lib/libgeneric.o
+ .bss.errno     0x0000000000000000        0x4 lib/libgeneric.o
+ .bss.local.3551
+                0x0000000000000000       0x18 lib/libgeneric.o
+ .pdr           0x0000000000000000      0x800 lib/libgeneric.o
+ .gnu.attributes
+                0x0000000000000000       0x10 lib/libgeneric.o
+ COMMON         0x0000000000000000        0x4 lib/libgeneric.o
+ .text          0x0000000000000000       0x50 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .data          0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .bss           0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .reginfo       0x0000000000000000       0x18 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .pdr           0x0000000000000000       0x20 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .gnu.attributes
+                0x0000000000000000       0x10 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .debug_frame   0x0000000000000000       0x20 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_lshrdi3.o)
+ .text          0x0000000000000000       0x50 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .bss           0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .reginfo       0x0000000000000000       0x18 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .pdr           0x0000000000000000       0x20 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .gnu.attributes
+                0x0000000000000000       0x10 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+ .debug_frame   0x0000000000000000       0x20 /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a(_ashldi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+.sram            0x0000000080001000 0x0000000000006800
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.text           0x0000000080001000     0x2aec
+                0x0000000080001000                __start = .
+ *(.start_section*)
+ .start_section
+                0x0000000080001000      0x84c arch/mips/cpu/xburst/t31/start.o
+                0x0000000080001000                _start
+ *(.text*)
+ .text.flush_icache_all
+                0x000000008000184c       0x34 arch/mips/cpu/xburst/libxburst.o
+                0x000000008000184c                flush_icache_all
+ .text.flush_dcache_all
+                0x0000000080001880       0x24 arch/mips/cpu/xburst/libxburst.o
+                0x0000000080001880                flush_dcache_all
+ .text.flush_cache_all
+                0x00000000800018a4       0x1c arch/mips/cpu/xburst/libxburst.o
+                0x00000000800018a4                flush_cache_all
+ .text.jz_serial_setbrg
+                0x00000000800018c0       0x38 arch/mips/cpu/xburst/libxburst.o
+ .text.jz_serial_tstc
+                0x00000000800018f8       0x14 arch/mips/cpu/xburst/libxburst.o
+ .text.jz_serial_putc
+                0x000000008000190c       0x54 arch/mips/cpu/xburst/libxburst.o
+ .text.jz_serial_getc
+                0x0000000080001960       0x30 arch/mips/cpu/xburst/libxburst.o
+ .text.jz_serial_init
+                0x0000000080001990       0x60 arch/mips/cpu/xburst/libxburst.o
+ .text.default_serial_console
+                0x00000000800019f0        0xc arch/mips/cpu/xburst/libxburst.o
+                0x00000000800019f0                default_serial_console
+ .text.reset_timer
+                0x00000000800019fc       0x18 arch/mips/cpu/xburst/libxburst.o
+                0x00000000800019fc                reset_timer
+ .text.timer_init
+                0x0000000080001a14       0x40 arch/mips/cpu/xburst/libxburst.o
+                0x0000000080001a14                timer_init
+ .text.__udelay
+                0x0000000080001a54       0x5c arch/mips/cpu/xburst/libxburst.o
+                0x0000000080001a54                __udelay
+ .text.board_init_f
+                0x0000000080001ab0       0xd8 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080001ab0                board_init_f
+ .text.jump_to_image_no_args
+                0x0000000080001b88       0x34 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080001b88                jump_to_image_no_args
+ .text.get_pllreg_value
+                0x0000000080001bbc      0x1e4 arch/mips/cpu/xburst/t31/libt31.o
+ .text.pll_set.part.0
+                0x0000000080001da0       0x44 arch/mips/cpu/xburst/t31/libt31.o
+ .text.pll_init
+                0x0000000080001de4      0x468 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080001de4                pll_init
+ .text.get_msc_rate
+                0x000000008000224c       0x7c arch/mips/cpu/xburst/t31/libt31.o
+ .text.clk_prepare
+                0x00000000800022c8       0xd8 arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800022c8                clk_prepare
+ .text.cgu_clks_set
+                0x00000000800023a0       0xe4 arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800023a0                cgu_clks_set
+ .text.cpm_get_h2clk
+                0x0000000080002484       0x70 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002484                cpm_get_h2clk
+ .text.clk_get_rate
+                0x00000000800024f4       0xd4 arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800024f4                clk_get_rate
+ .text.clk_set_rate
+                0x00000000800025c8      0x150 arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800025c8                clk_set_rate
+ .text.clk_init
+                0x0000000080002718       0x38 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002718                clk_init
+ .text.enable_uart_clk
+                0x0000000080002750       0x58 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002750                enable_uart_clk
+ .text.reset_dll
+                0x00000000800027a8       0x44 arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800027a8                reset_dll
+ .text.ddr_controller_init
+                0x00000000800027ec       0xac arch/mips/cpu/xburst/t31/libt31.o
+                0x00000000800027ec                ddr_controller_init
+ .text.dump_inno_phy
+                0x0000000080002898       0xa0 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002898                dump_inno_phy
+ .text.phy_calibration
+                0x0000000080002938      0x10c arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002938                phy_calibration
+ .text.ddr_inno_phy_init
+                0x0000000080002a44      0x31c arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002a44                ddr_inno_phy_init
+ .text.sdram_init
+                0x0000000080002d60      0x1e4 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080002d60                sdram_init
+ .text.spl_board_init
+                0x0000000080002f44        0x8 board/ingenic/isvp_t31/libisvp_t31.o
+                0x0000000080002f44                spl_board_init
+ .text.spl_parse_image_header
+                0x0000000080002f4c      0x174 common/spl/libspl.o
+                0x0000000080002f4c                spl_parse_image_header
+ .text.board_init_r
+                0x00000000800030c0       0x2c common/spl/libspl.o
+                0x00000000800030c0                board_init_r
+ .text.preloader_console_init
+                0x00000000800030ec       0x48 common/spl/libspl.o
+                0x00000000800030ec                preloader_console_init
+ .text.sfc_set_mode
+                0x0000000080003134       0x34 common/spl/libspl.o
+                0x0000000080003134                sfc_set_mode
+ .text.sfc_dev_addr_dummy_bytes
+                0x0000000080003168       0x34 common/spl/libspl.o
+                0x0000000080003168                sfc_dev_addr_dummy_bytes
+ .text.sfc_init
+                0x000000008000319c       0x3c common/spl/libspl.o
+                0x000000008000319c                sfc_init
+ .text.sfc_nor_load
+                0x00000000800031d8      0x14c common/spl/libspl.o
+                0x00000000800031d8                sfc_nor_load
+ .text.spl_sfc_nor_load_image
+                0x0000000080003324       0x2c common/spl/libspl.o
+                0x0000000080003324                spl_sfc_nor_load_image
+ .text.spl_vsprintf
+                0x0000000080003350      0x208 common/spl/libspl.o
+                0x0000000080003350                spl_vsprintf
+ .text.printf   0x0000000080003558       0x40 common/spl/libspl.o
+                0x0000000080003558                printf
+ .text.puts     0x0000000080003598       0x1c common/spl/libspl.o
+                0x0000000080003598                puts
+ .text.gpio_set_func
+                0x00000000800035b4      0x114 drivers/gpio/libgpio.o
+                0x00000000800035b4                gpio_set_func
+ .text.gpio_set_driver_strength
+                0x00000000800036c8      0x120 drivers/gpio/libgpio.o
+                0x00000000800036c8                gpio_set_driver_strength
+ .text.gpio_init
+                0x00000000800037e8       0x8c drivers/gpio/libgpio.o
+                0x00000000800037e8                gpio_init
+ .text.get_current
+                0x0000000080003874       0x50 drivers/serial/libserial.o
+ .text.serial_init
+                0x00000000800038c4       0x20 drivers/serial/libserial.o
+                0x00000000800038c4                serial_init
+ .text.serial_setbrg
+                0x00000000800038e4       0x20 drivers/serial/libserial.o
+                0x00000000800038e4                serial_setbrg
+ .text.serial_tstc
+                0x0000000080003904       0x20 drivers/serial/libserial.o
+                0x0000000080003904                serial_tstc
+ .text.serial_putc
+                0x0000000080003924       0x30 drivers/serial/libserial.o
+                0x0000000080003924                serial_putc
+ .text.serial_puts
+                0x0000000080003954       0x24 drivers/serial/libserial.o
+                0x0000000080003954                serial_puts
+ .text.default_serial_puts
+                0x0000000080003978       0x48 drivers/serial/libserial.o
+                0x0000000080003978                default_serial_puts
+ .text.hang     0x00000000800039c0        0x8 lib/libgeneric.o
+                0x00000000800039c0                hang
+ .text.memset   0x00000000800039c8       0x88 lib/libgeneric.o
+                0x00000000800039c8                memset
+ .text.udelay   0x0000000080003a50       0x68 lib/libgeneric.o
+                0x0000000080003a50                udelay
+ .text.mdelay   0x0000000080003ab8       0x34 lib/libgeneric.o
+                0x0000000080003ab8                mdelay
+                0x0000000080003aec                . = ALIGN (0x4)
+
+.rodata         0x0000000080003aec      0x9fc
+ *(SORT(.rodata*))
+ .rodata.str1.4
+                0x0000000080003aec      0x8dc arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.__func__.3671
+                0x00000000800043c8        0xc arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.__func__.3664
+                0x00000000800043d4       0x10 arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.__func__.3649
+                0x00000000800043e4        0xc arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.__func__.3660
+                0x00000000800043f0       0x10 arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.__func__.3608
+                0x0000000080004400       0x14 arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.clk_get_rate
+                0x0000000080004414       0x44 arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.CSWTCH.8
+                0x0000000080004458        0xc arch/mips/cpu/xburst/t31/libt31.o
+ .rodata.str1.4
+                0x0000000080004464       0x6b common/spl/libspl.o
+                                         0x88 (size before relaxing)
+ *fill*         0x00000000800044cf        0x1 
+ .rodata.str1.4
+                0x00000000800044d0       0x18 drivers/serial/libserial.o
+                0x00000000800044e8                . = ALIGN (0x4)
+
+.data           0x00000000800044f0      0x268
+ *(SORT(.data*))
+ .data          0x00000000800044f0       0x20 arch/mips/cpu/xburst/libxburst.o
+                0x00000000800044f0                uart
+                0x0000000080004500                multiple
+ .data          0x0000000080004510       0xa0 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080004510                ginfo
+                0x0000000080004528                gdata
+ .data          0x00000000800045b0       0x20 common/spl/libspl.o
+ .data.jz_serial_drv
+                0x00000000800045d0       0x30 arch/mips/cpu/xburst/libxburst.o
+ .data.cgu_clk_sel
+                0x0000000080004600       0xf0 arch/mips/cpu/xburst/t31/libt31.o
+                0x0000000080004600                cgu_clk_sel
+ .data.cgu_clk_src
+                0x00000000800046f0       0x48 board/ingenic/isvp_t31/libisvp_t31.o
+                0x00000000800046f0                cgu_clk_src
+ .data.gpio_func
+                0x0000000080004738       0x20 drivers/gpio/libgpio.o
+                0x0000000080004758                . = ALIGN (0x4)
+                0x0000000080004758                __image_copy_end = .
+
+.bss            0x0000000080004758       0x3c
+                0x0000000080004758                . = ALIGN (0x4)
+                0x0000000080004758                __bss_start = .
+ *(.sbss.*)
+ *(.bss.*)
+ .bss.serial_current
+                0x0000000080004758        0x4 drivers/serial/libserial.o
+ *(COMMON)
+ COMMON         0x000000008000475c       0x20 arch/mips/cpu/xburst/t31/libt31.o
+                0x000000008000475c                pll_cfg
+ COMMON         0x000000008000477c       0x18 common/spl/libspl.o
+                0x000000008000477c                spl_image
+                0x0000000080004794                . = ALIGN (0x4)
+                0x0000000080004794                __bss_end = .
+
+/DISCARD/
+ *(.dynbss)
+ *(.dynstr)
+ *(.dynamic)
+ *(.interp)
+ *(.hash)
+ *(.gnu.*)
+ *(.plt)
+ *(.got.plt)
+ *(.rel.plt)
+ *(.rel.dyn)
+Address of section .text set to 0x80001000
+LOAD arch/mips/cpu/xburst/t31/start.o
+START GROUP
+LOAD arch/mips/cpu/xburst/libxburst.o
+LOAD arch/mips/cpu/xburst/t31/libt31.o
+LOAD arch/mips/lib/libmips.o
+LOAD board/ingenic/isvp_t31/libisvp_t31.o
+LOAD common/spl/libspl.o
+LOAD drivers/gpio/libgpio.o
+LOAD drivers/serial/libserial.o
+LOAD lib/libgeneric.o
+END GROUP
+LOAD /nfsroot/mips-gcc472-glibc216-64bit/bin/../lib/gcc/mips-linux-gnu/4.7.2/soft-float/libgcc.a
+OUTPUT(u-boot-spl elf32-tradlittlemips)
+
+.pdr            0x0000000000000000        0x0
+ .pdr           0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/start.o
+
+.comment        0x0000000000000000       0x24
+ .comment       0x0000000000000000       0x24 arch/mips/cpu/xburst/libxburst.o
+                                         0x6f (size before relaxing)
+ .comment       0x0000000000000000       0xde arch/mips/cpu/xburst/t31/libt31.o
+ .comment       0x0000000000000000       0x25 board/ingenic/isvp_t31/libisvp_t31.o
+ .comment       0x0000000000000000       0x6f common/spl/libspl.o
+ .comment       0x0000000000000000       0x25 drivers/gpio/libgpio.o
+ .comment       0x0000000000000000       0x25 drivers/serial/libserial.o
+ .comment       0x0000000000000000      0x197 lib/libgeneric.o
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 arch/mips/cpu/xburst/libxburst.o
+ .mdebug.abi32  0x0000000000000000        0x0 arch/mips/cpu/xburst/t31/libt31.o
+ .mdebug.abi32  0x0000000000000000        0x0 board/ingenic/isvp_t31/libisvp_t31.o
+ .mdebug.abi32  0x0000000000000000        0x0 common/spl/libspl.o
+ .mdebug.abi32  0x0000000000000000        0x0 drivers/gpio/libgpio.o
+ .mdebug.abi32  0x0000000000000000        0x0 drivers/serial/libserial.o
+ .mdebug.abi32  0x0000000000000000        0x0 lib/libgeneric.o
+
+.debug_line     0x0000000000000000     0x3bcc
+ .debug_line    0x0000000000000000       0x4b arch/mips/cpu/xburst/t31/start.o
+ .debug_line    0x000000000000004b      0x5b1 arch/mips/cpu/xburst/libxburst.o
+ .debug_line    0x00000000000005fc      0xf24 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_line    0x0000000000001520      0x1f1 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_line    0x0000000000001711      0x6af common/spl/libspl.o
+ .debug_line    0x0000000000001dc0      0x41b drivers/gpio/libgpio.o
+ .debug_line    0x00000000000021db      0x2f6 drivers/serial/libserial.o
+ .debug_line    0x00000000000024d1     0x16fb lib/libgeneric.o
+
+.debug_info     0x0000000000000000     0xe9ea
+ .debug_info    0x0000000000000000       0x5f arch/mips/cpu/xburst/t31/start.o
+ .debug_info    0x000000000000005f     0x191a arch/mips/cpu/xburst/libxburst.o
+ .debug_info    0x0000000000001979     0x435e arch/mips/cpu/xburst/t31/libt31.o
+ .debug_info    0x0000000000005cd7      0xaf5 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_info    0x00000000000067cc     0x1bfa common/spl/libspl.o
+ .debug_info    0x00000000000083c6      0xf56 drivers/gpio/libgpio.o
+ .debug_info    0x000000000000931c      0xbf2 drivers/serial/libserial.o
+ .debug_info    0x0000000000009f0e     0x4adc lib/libgeneric.o
+
+.debug_abbrev   0x0000000000000000     0x3d0b
+ .debug_abbrev  0x0000000000000000       0x14 arch/mips/cpu/xburst/t31/start.o
+ .debug_abbrev  0x0000000000000014      0x74d arch/mips/cpu/xburst/libxburst.o
+ .debug_abbrev  0x0000000000000761     0x1073 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_abbrev  0x00000000000017d4      0x22d board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_abbrev  0x0000000000001a01      0x820 common/spl/libspl.o
+ .debug_abbrev  0x0000000000002221      0x330 drivers/gpio/libgpio.o
+ .debug_abbrev  0x0000000000002551      0x355 drivers/serial/libserial.o
+ .debug_abbrev  0x00000000000028a6     0x1465 lib/libgeneric.o
+
+.debug_aranges  0x0000000000000000      0x7f8
+ .debug_aranges
+                0x0000000000000000       0x20 arch/mips/cpu/xburst/t31/start.o
+ .debug_aranges
+                0x0000000000000020       0xf0 arch/mips/cpu/xburst/libxburst.o
+ .debug_aranges
+                0x0000000000000110      0x178 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_aranges
+                0x0000000000000288       0x48 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_aranges
+                0x00000000000002d0       0xb8 common/spl/libspl.o
+ .debug_aranges
+                0x0000000000000388       0xe0 drivers/gpio/libgpio.o
+ .debug_aranges
+                0x0000000000000468       0x88 drivers/serial/libserial.o
+ .debug_aranges
+                0x00000000000004f0      0x308 lib/libgeneric.o
+
+.debug_frame    0x0000000000000000     0x1314
+ .debug_frame   0x0000000000000000      0x1fc arch/mips/cpu/xburst/libxburst.o
+ .debug_frame   0x00000000000001fc      0x358 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_frame   0x0000000000000554       0xb4 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_frame   0x0000000000000608      0x194 common/spl/libspl.o
+ .debug_frame   0x000000000000079c      0x220 drivers/gpio/libgpio.o
+ .debug_frame   0x00000000000009bc      0x1a0 drivers/serial/libserial.o
+ .debug_frame   0x0000000000000b5c      0x7b8 lib/libgeneric.o
+
+.debug_str      0x0000000000000000     0x23cb
+ .debug_str     0x0000000000000000      0x60f arch/mips/cpu/xburst/libxburst.o
+                                        0xc9f (size before relaxing)
+ .debug_str     0x000000000000060f      0x797 arch/mips/cpu/xburst/t31/libt31.o
+                                       0x1bd3 (size before relaxing)
+ .debug_str     0x0000000000000da6      0x101 board/ingenic/isvp_t31/libisvp_t31.o
+                                        0x388 (size before relaxing)
+ .debug_str     0x0000000000000ea7      0x2fa common/spl/libspl.o
+                                        0xceb (size before relaxing)
+ .debug_str     0x00000000000011a1      0x2ae drivers/gpio/libgpio.o
+                                        0x695 (size before relaxing)
+ .debug_str     0x000000000000144f       0xea drivers/serial/libserial.o
+                                        0x50e (size before relaxing)
+ .debug_str     0x0000000000001539      0xe92 lib/libgeneric.o
+                                       0x2161 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x76fa
+ .debug_loc     0x0000000000000000      0x41a arch/mips/cpu/xburst/libxburst.o
+ .debug_loc     0x000000000000041a     0x1350 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_loc     0x000000000000176a      0x229 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_loc     0x0000000000001993      0x9d5 common/spl/libspl.o
+ .debug_loc     0x0000000000002368      0xea6 drivers/gpio/libgpio.o
+ .debug_loc     0x000000000000320e      0x307 drivers/serial/libserial.o
+ .debug_loc     0x0000000000003515     0x41e5 lib/libgeneric.o
+
+.debug_ranges   0x0000000000000000      0xae8
+ .debug_ranges  0x0000000000000000      0x178 arch/mips/cpu/xburst/libxburst.o
+ .debug_ranges  0x0000000000000178      0x228 arch/mips/cpu/xburst/t31/libt31.o
+ .debug_ranges  0x00000000000003a0       0x38 board/ingenic/isvp_t31/libisvp_t31.o
+ .debug_ranges  0x00000000000003d8      0x1e8 common/spl/libspl.o
+ .debug_ranges  0x00000000000005c0       0xe8 drivers/gpio/libgpio.o
+ .debug_ranges  0x00000000000006a8       0x78 drivers/serial/libserial.o
+ .debug_ranges  0x0000000000000720      0x3c8 lib/libgeneric.o
