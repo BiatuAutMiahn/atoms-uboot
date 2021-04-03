@@ -346,7 +346,7 @@
 /**
  * Boot command definitions.
  */
-#define CONFIG_BOOTDELAY 0
+#define CONFIG_BOOTDELAY 1
 
 #ifdef CONFIG_SPL_MMC_SUPPORT
 #define CONFIG_BOOTCOMMAND "mmc read 0x80600000 0x1800 0x3000; bootm 0x80600000"
